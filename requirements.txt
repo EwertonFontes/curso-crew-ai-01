@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+langchain_community
+ipykernel
+python-dotenv
+jupyter
+pdfkit
+markdown
+onnxruntime==1.16.3
