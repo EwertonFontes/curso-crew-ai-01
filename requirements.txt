@@ -6,4 +6,5 @@ python-dotenv
 jupyter
 pdfkit
 markdown
+duckduckgo_search
 onnxruntime==1.16.3
